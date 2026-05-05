@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PancreaScan</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="terms_and_conditions_text">
+        <![CDATA[
+        <p><b>Terms and Conditions</b></p>
+        <p>Welcome to PancreaScan. By using this application, you agree to the following terms and conditions:</p>
+        <p><b>1. Medical Disclaimer:</b> This application is for informational and research purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.</p>
+        <p><b>2. Data Privacy:</b> All patient data, including uploaded images and analysis results, is stored securely on your local device. Anonymized data may be synced to a secure server for research purposes to improve the application\'s performance. We are committed to protecting your privacy and will not share personally identifiable information with third parties without your consent.</p>
+        <p><b>3. User Conduct:</b> You agree to use this application only for lawful purposes and in a manner that does not infringe the rights of, or restrict or inhibit the use and enjoyment of, this application by any third party.</p>
+        <p><b>4. Data Deletion:</b> You have the right to delete your account and all associated local data from this device at any time through the settings menu. Please note that this action is irreversible.</p>
+        <p><b>5. Changes to Terms:</b> We reserve the right to modify these terms at any time. Your continued use of the application after such changes will constitute your consent to the updated terms.</p>
+        ]]>
+    </string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_create_account_text">Create Account</string>
+    <string name="login_app_logo_description">App Logo</string>
+</resources>

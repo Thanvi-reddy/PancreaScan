@@ -1,0 +1,48 @@
+
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App specific
+build/
+app/build/
+.idea/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Large model files (handled by LFS)
+*.tflite
+
+# Prevent accidentally uploading large zip files or duplicated folders
+*.zip
+* - Copy/
+* - Copy */
+
+# Do not include Web dashboard per user request
+web/
