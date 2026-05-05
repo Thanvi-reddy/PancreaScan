@@ -47,7 +47,11 @@ google-services.json
 # Do not include Web dashboard per user request
 web/
 
-# backend
-backend/vendor/
-backend/.env
-backend/node_modules/
+backend/Deployment/vendor/
+backend/Deployment/node_modules/
+backend/Deployment/.env
+backend/Deployment/__pycache__/
+backend/Deployment/*.pyc
+backend/Deployment/*.log
+backend/Deployment/.DS_Store
+backend/Deployment/__MACOSX/
