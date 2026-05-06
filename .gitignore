@@ -60,3 +60,8 @@ backend/Deployment/__MACOSX/
 .idea/
 build/
 local.properties
+
+._*
+__pycache__/
+*.pyc
+.DS_Store
