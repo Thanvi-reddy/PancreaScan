@@ -55,3 +55,8 @@ backend/Deployment/*.pyc
 backend/Deployment/*.log
 backend/Deployment/.DS_Store
 backend/Deployment/__MACOSX/
+
+.gradle/
+.idea/
+build/
+local.properties
